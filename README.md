@@ -1,7 +1,7 @@
 Fingertip-QR-Link
 =================
 
-Google extension that create QR Code from link. Can get it at its (Official Website)[https://chrome.google.com/webstore/detail/kmljcpbojecfeljodfbecbkakhpdnomd]
+Google extension that create QR Code from link. Can get it at its [Official Website](https://chrome.google.com/webstore/detail/kmljcpbojecfeljodfbecbkakhpdnomd)
 
 Changes
 =======
